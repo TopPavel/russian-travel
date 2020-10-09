@@ -1,0 +1,9 @@
+.place__place-br_place_paragraph {
+    display: none;
+}
+
+@media screen and (max-width: 767px) {
+    .place__place-br_place_paragraph {
+        display: initial;
+    }
+}

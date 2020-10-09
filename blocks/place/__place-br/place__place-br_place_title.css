@@ -1,0 +1,10 @@
+.place__place-br_place_title {
+    display: initial;
+}
+
+@media screen and (max-width: 767px) {
+    .place__place-br_place_title {
+        display: none;
+    }
+}
+
