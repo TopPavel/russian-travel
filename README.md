@@ -11,4 +11,4 @@
 - Figma
 - Адаптивна верстка
 
-## [Ссылка на проект](https://github.com/TopPavel/russian-travel) 
+## [Посмотреть страничку](https://toppavel.github.io/russian-travel/) 

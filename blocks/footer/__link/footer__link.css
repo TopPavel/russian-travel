@@ -3,14 +3,14 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 18px;
-    margin-right: 18px;
     text-decoration: none;
     text-align: left;
     color: #FFFFFF;
+    transition: opacity 0.2s;
 }
 
-.footer__link:last-child {
-    margin-bottom: 48px;
+.footer__link:hover {
+    opacity: 0.8;
 }
 
 @media screen and (max-width: 620px) {

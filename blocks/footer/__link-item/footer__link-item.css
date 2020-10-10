@@ -1,0 +1,14 @@
+.footer__link-item {
+    margin-right: 18px;
+}
+
+.footer__link-item:last-child {
+    margin-bottom: 48px;
+}
+
+@media screen and (max-width: 620px) {
+    .footer__link-item {
+        margin-right: 0;
+        margin-bottom: 32px;
+    }
+}

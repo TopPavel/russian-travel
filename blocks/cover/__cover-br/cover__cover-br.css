@@ -1,9 +1,0 @@
-.cover__cover-br {
-    display: none;
-}
-
-@media screen and (max-width: 767px) {
-    .cover__cover-br {
-        display: initial;
-    }
-}
